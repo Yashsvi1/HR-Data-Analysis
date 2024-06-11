@@ -6,7 +6,7 @@ The primary goal of this project is to analyze HR data to identify relevant tren
 
 ## Description
 
-In the "HR Data Analysis" project, I created five comprehensive dashboards to explore different facets of HR data. The project is structured as follows:
+In the "Attrition Analyzer" project, I created five comprehensive dashboards to explore different facets of HR data. The project is structured as follows:
 
 1. **Overview Dashboard**: Provides a summary of all four subsequent dashboards, offering a high-level view of the insights gathered.
 2. **Demographic Insights Dashboard**: Summarizes employee statistics, including age groups, gender, distance from home, and marital status. This dashboard helps understand workforce diversity and commuting patterns.
