@@ -62,4 +62,4 @@ For any questions or inquiries, please contact:
 
 ---
 
-Thank you for exploring the HR Data Analysis project. We hope you find the insights valuable and the visualizations helpful for making informed HR decisions.
+Thank you for exploring the Attrition Analyzer project. We hope you find the insights valuable and the visualizations helpful for making informed HR decisions.
