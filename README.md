@@ -1,4 +1,4 @@
-# HR Data Analysis
+# Attrition Analyzer
 
 ## Purpose
 
